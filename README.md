@@ -6,6 +6,8 @@ The Universal Bit Project is an open source and all inclusive community focused 
 (https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")<br>
 [http://universalbit.slack.com]
 
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+
 
 <center>
   
