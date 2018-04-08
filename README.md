@@ -1,4 +1,4 @@
-# Unibit Documents & Resources
+# Unibit FAQ & Resource List
 
 > The Universal Bit Project is an open source, 
 > all inclusive community, focused on pushing the boundaries of decentralized technologies. 
