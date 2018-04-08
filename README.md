@@ -18,8 +18,8 @@ We are working on developing the tools necessary to build applications on next g
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Reddit</dt>
+  <dd>https://www.reddit.com/r/unibitproject/</dd>
 </dl>
 
 
