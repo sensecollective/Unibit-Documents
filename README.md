@@ -12,7 +12,7 @@ Or leave it empty and use the [Slack].
 
 [1]: http://universalbit.slack.com
 [logo]: https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Slack Logo"
-[Slack]: (https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png)
+[Slack]: https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png
 
 
 <center>
