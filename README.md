@@ -6,7 +6,7 @@ The Universal Bit Project is an open source and all inclusive community focused 
 
 
 
-![1](http://universalbit.slack.com)
+![logo](http://universalbit.slack.com)[1]
 
 ![logo][1]
 
