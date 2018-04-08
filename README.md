@@ -11,6 +11,16 @@ Task List:
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+Unibit Logo Colors:
+
+#8b54cf
+#5b52d1
+#5476cf
+#55a7ce
+#4ed6d6
+
+yoshi [2:05 PM]
+Awesome, thank you for this
 
 
 ***
