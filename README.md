@@ -76,7 +76,7 @@ using our social media channels:
 [http://slack.unibit.io]
 
 
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/Twitter-logo.png "Twitter")
 [https://twitter.com/UnibitProject]
 
 
