@@ -1,5 +1,5 @@
 # Unibit Resource List  :paperclip:
-:exclamation: WIP
+:exclamation: ![https://img.shields.io/badge/Always-Changing-red.svg]
 
 > The Universal Bit Project is an open source, 
 > all inclusive community, focused on pushing the boundaries of decentralized technologies. 
