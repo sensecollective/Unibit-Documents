@@ -1,4 +1,4 @@
-# Unibit FAQ & Resource List
+# Unibit Resource List  :paperclip:
 
 > The Universal Bit Project is an open source, 
 > all inclusive community, focused on pushing the boundaries of decentralized technologies. 
@@ -7,7 +7,7 @@
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
- :paperclip:
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
