@@ -30,8 +30,7 @@ Task List:
   <dd>https://unibitlabs.github.io</dd>
 </dl>
 
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/reddit-logo.jpg "Reddit")
-[https://www.reddit.com/r/unibitproject/]
+
 
 
 <table>
@@ -75,6 +74,10 @@ using our social media channels:
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Discord")
 [https://discord.gg/fhvWr8M]
+
+
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/reddit-logo.jpg "Reddit")
+[https://www.reddit.com/r/unibitproject/]
 
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
