@@ -5,7 +5,7 @@
 > all inclusive community, focused on pushing the boundaries of decentralized technologies. 
 
 
-> Task List:
+Task List:
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
