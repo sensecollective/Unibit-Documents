@@ -1,5 +1,4 @@
-# Unibit Resource List  :paperclip:
-:exclamation: 
+# :exclamation: Unibit Resource List  :paperclip:
 
 ![](https://img.shields.io/badge/Always-Changing-red.svg)
 
