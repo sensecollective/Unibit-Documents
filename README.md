@@ -2,7 +2,7 @@
 
 > The Universal Bit Project is an open source and all inclusive community focused on pushing the boundaries of decentralized technologies. 
 
-We came together to work on solutions to legacy systems, and creating the tools to build applications on these next generation technologies.
+We came together to work on solutions to legacy systems, and are primarily focused on creating the tools to build applications on these next generation technologies.
 
 ***
 
