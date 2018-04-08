@@ -33,6 +33,15 @@ We are working on developing the tools necessary to build applications on next g
 </dl>
 
 
+
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
+
+
 ***
 All are welcome to get involved & collaborate with us,
 using our social media channels:
