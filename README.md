@@ -71,6 +71,9 @@ using our social media channels:
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
 [http://slack.unibit.io]
 
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
+[https://twitter.com/UnibitProject]
+
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Telegram")
 [https://t.me/unibitproject]
@@ -78,10 +81,6 @@ using our social media channels:
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Discord")
 [https://discord.gg/fhvWr8M]
-
-
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
-[https://twitter.com/UnibitProject]
 
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Facebook")
