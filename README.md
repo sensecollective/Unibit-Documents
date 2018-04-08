@@ -7,8 +7,7 @@
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
-
-@unibitlabs :+1:
+ :paperclip:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
