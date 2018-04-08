@@ -72,12 +72,12 @@ using our social media channels:
 [https://t.me/unibitproject]
 
 
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
-[http://slack.unibit.io]
-
-
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/Twitter-logo.png "Twitter")
 [https://twitter.com/UnibitProject]
+
+
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
+[http://slack.unibit.io]
 
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Discord")
