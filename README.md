@@ -9,18 +9,18 @@ You are welcome to get involved, and collaborate with us on one of these channel
 ![http://universalbit.slack.com](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")
 [http://universalbit.slack.com]
 
-<a href="">
+
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
-</a>
 
-<a href="">
+
+
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Logo Title Text 1")
-</a>
+[https://discord.gg/fhvWr8M]
 
-<a href="">
+
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Logo Title Text 1")
-</a>
 
-<a href="">
+
+
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Logo Title Text 1")
-</a>
+
