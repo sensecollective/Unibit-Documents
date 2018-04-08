@@ -68,15 +68,16 @@ using our social media channels:
 [https://www.reddit.com/r/unibitproject/]
 
 
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Telegram")
+[https://t.me/unibitproject]
+
+
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
 [http://slack.unibit.io]
 
+
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
 [https://twitter.com/UnibitProject]
-
-
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Telegram")
-[https://t.me/unibitproject]
 
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Discord")
