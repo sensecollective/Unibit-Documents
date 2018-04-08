@@ -24,7 +24,7 @@ The Universal Bit Project is an open source and all inclusive community focused 
 All are welcome to get involved and collaborate with us on one of these social channels:
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")<br>
-[http://universalbit.slack.com]
+[http://slack.unibit.io]
 
 ![http://universalbit.slack.com](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Slack Logo")[http://universalbit.slack.com]
 
