@@ -2,12 +2,10 @@
 
 > The Universal Bit Project is an open source and all inclusive community focused on pushing the boundaries of decentralized technologies. 
 
-We came together to work on solutions to legacy systems, and are primarily focused on creating the tools to build applications on these next generation technologies.
-
+We are focused on creating the tools necessary to build applications on next generation distributed ledger technologies.
 ***
 
 #### Websites
-
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 
