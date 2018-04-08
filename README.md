@@ -17,16 +17,12 @@ The Universal Bit Project is an open source and all inclusive community focused 
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-***
 
-<center>
   
 All are welcome to get involved and collaborate with us on one of these social channels:
-
+***
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Logo Title Text 1")<br>
 [http://slack.unibit.io]
-
-![http://universalbit.slack.com](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Slack Logo")[http://universalbit.slack.com]
 
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
@@ -43,5 +39,4 @@ All are welcome to get involved and collaborate with us on one of these social c
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Logo Title Text 1")
 [https://www.facebook.com/unibitproject/]
-
-</center>
+***
