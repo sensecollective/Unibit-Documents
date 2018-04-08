@@ -10,3 +10,4 @@ You are welcome to get involved, and collaborate with us on one of these channel
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")
 
+![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Logo Title Text 1")
