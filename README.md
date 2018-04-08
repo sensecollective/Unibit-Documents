@@ -1,6 +1,7 @@
 # Unibit Documents & Resources
 
-> The Universal Bit Project is an open source and all inclusive community focused on pushing the boundaries of decentralized technologies. 
+> The Universal Bit Project is an open source, 
+> all inclusive community, focused on pushing the boundaries of decentralized technologies. 
 
 We are focused on creating the tools necessary to build applications on next generation distributed ledger technologies.
 ***
