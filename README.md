@@ -32,7 +32,15 @@ We are working on developing the tools necessary to build applications on next g
   <dd>https://www.reddit.com/r/unibitproject/</dd>
 </dl>
 
+This is a regular paragraph.
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
 
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [3].
