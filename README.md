@@ -17,6 +17,8 @@ All are welcome to get involved and collaborate with us on one of these social c
 ![http://universalbit.slack.com](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")
 [http://universalbit.slack.com]
 
+[Slack](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Slack Logo")
+
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
 [https://t.me/unibitproject]
