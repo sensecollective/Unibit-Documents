@@ -6,7 +6,7 @@ You are welcome to get involved, and collaborate with us on one of these channel
 
 
 
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")(http://google.com)
+![http://universalbit.slack.com](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")
 
 
 <a href="">
