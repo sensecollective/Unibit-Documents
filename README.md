@@ -64,6 +64,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 All are welcome to get involved & collaborate with us,
 using our social media channels:
 
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/reddit-logo.jpg "Reddit")
+[https://www.reddit.com/r/unibitproject/]
+
+
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
 [http://slack.unibit.io]
 
@@ -74,10 +78,6 @@ using our social media channels:
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Discord")
 [https://discord.gg/fhvWr8M]
-
-
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/reddit-logo.jpg "Reddit")
-[https://www.reddit.com/r/unibitproject/]
 
 
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
