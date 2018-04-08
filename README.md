@@ -4,6 +4,7 @@
 > The Universal Bit Project is an open source, 
 > all inclusive community, focused on pushing the boundaries of decentralized technologies. 
 
+We are working on developing the tools necessary to build applications on next generation distributed ledger technologies.
 
 Task List:
 
@@ -12,12 +13,6 @@ Task List:
 - [ ] Open a pull request
 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-We are working on developing the tools necessary to build applications on next generation distributed ledger technologies.
 ***
 
 #### Websites
@@ -25,14 +20,17 @@ We are working on developing the tools necessary to build applications on next g
 
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dt>Website</dt>
+  <dd>http://www.unibit.io</dd>
 
   <dt>Reddit</dt>
   <dd>https://www.reddit.com/r/unibitproject/</dd>
+  
+  <dt>Website #2</dt>
+  <dd>https://unibitlabs.github.io</dd>
 </dl>
 
-This is a regular paragraph.
+
 
 <table>
     <tr>
@@ -56,6 +54,10 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ***
 All are welcome to get involved & collaborate with us,
