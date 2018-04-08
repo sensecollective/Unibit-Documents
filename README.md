@@ -7,7 +7,7 @@ The Universal Bit Project is an open source and all inclusive community focused 
 
 
 
-![logo][1]
+[logo][1]
 
 [1]: http://universalbit.slack.com
 [logo]: https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Slack Logo"
