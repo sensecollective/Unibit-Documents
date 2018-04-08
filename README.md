@@ -21,22 +21,22 @@ The Universal Bit Project is an open source and all inclusive community focused 
   
 All are welcome to get involved and collaborate with us on one of these social channels:
 ***
-![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Logo Title Text 1")<br>
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
 [http://slack.unibit.io]
 
 
-![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Telegram")
 [https://t.me/unibitproject]
 
 
-![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Logo Title Text 1")
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Discord")
 [https://discord.gg/fhvWr8M]
 
 
-![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Logo Title Text 1")
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Twitter")
 [https://twitter.com/UnibitProject]
 
 
-![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Logo Title Text 1")
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Facebook")
 [https://www.facebook.com/unibitproject/]
 ***
