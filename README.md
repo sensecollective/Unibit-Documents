@@ -18,9 +18,9 @@ The Universal Bit Project is an open source and all inclusive community focused 
 </dl>
 
 
-  
-All are welcome to get involved and collaborate with us on one of these social channels:
 ***
+All are welcome to get involved and collaborate with us on one of these social channels:
+
 ![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo.png "Slack")
 [http://slack.unibit.io]
 
