@@ -40,6 +40,10 @@ This is a regular paragraph.
        <td>Foo2</td>
        <td>Foo3</td>
     </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+  </tr>
 </table>
 
 This is another regular paragraph.
