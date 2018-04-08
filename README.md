@@ -2,7 +2,8 @@
 
 The Universal Bit Project is an open source and all inclusive community focused on pushing the boundaries of decentralized technologies. We came together to work on solutions to legacy systems, and creating the tools to build applications on these next generation technologies.
 
-
+![https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")<br>
+[http://universalbit.slack.com]
 
 
 <center>
