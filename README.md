@@ -37,6 +37,8 @@ This is a regular paragraph.
 <table>
     <tr>
         <td>Foo</td>
+       <td>Foo2</td>
+       <td>Foo3</td>
     </tr>
 </table>
 
