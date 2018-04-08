@@ -4,16 +4,23 @@ The Universal Bit Project is an open source and all inclusive community focused 
 
 You are welcome to get involved, and collaborate with us on one of these channels:
 
--telegram
--discord
 
-
+<a href="">
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")
+</a>
 
+<a href="">
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
+</a>
 
+<a href="">
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Logo Title Text 1")
+</a>
 
-![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Logo Title Text 1")
-
+<a href="">
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Logo Title Text 1")
+</a>
+
+<a href="">
+![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Logo Title Text 1")
+</a>
