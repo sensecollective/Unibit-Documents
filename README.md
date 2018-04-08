@@ -5,9 +5,9 @@ The Universal Bit Project is an open source and all inclusive community focused 
 You are welcome to get involved, and collaborate with us on one of these channels:
 
 
-<a href="">
-![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")
-</a>
+
+![](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/slack-logo2.png "Logo Title Text 1")(http://google.com)
+
 
 <a href="">
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
