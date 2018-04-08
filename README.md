@@ -11,7 +11,7 @@ You are welcome to get involved, and collaborate with us on one of these channel
 
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/telegram-logo.png "Logo Title Text 1")
-
+[https://t.me/unibitproject]
 
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/discord-logo.png "Logo Title Text 1")
@@ -19,8 +19,8 @@ You are welcome to get involved, and collaborate with us on one of these channel
 
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/twitter-logo.png "Logo Title Text 1")
-
+[https://twitter.com/UnibitProject]
 
 
 ![alt text](https://github.com/unibitlabs/Unibit-Documents/blob/master/images/fb-logo.png "Logo Title Text 1")
-
+[https://www.facebook.com/unibitproject/]
