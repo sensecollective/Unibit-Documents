@@ -13,19 +13,6 @@ Task List:
 - [ ] Open a pull request
 
 
-Unibit Logo Colors:
-
-
-#8b54cf
-#5b52d1
-#5476cf
-#55a7ce
-#4ed6d6
-
-yoshi [2:05 PM]
-Awesome, thank you for this
-
-
 ***
 
 #### Websites
@@ -39,14 +26,14 @@ Awesome, thank you for this
   <dt>Website #2</dt>
   <dd>https://unibitlabs.github.io</dd>
   
-    <dt>Website #3</dt>
+  <dt>Website #3</dt>
   <dd>http://unibit.rundis.com</dd>
 
   <dt>Website #4</dt>
   <dd>https://</dd>
 </dl>
 
-
+<hr>
 
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [3].
