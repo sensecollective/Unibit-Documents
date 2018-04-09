@@ -33,33 +33,20 @@ Awesome, thank you for this
 
 
 <dl>
-  <dt>Website</dt>
+  <dt>Website #1</dt>
   <dd>http://www.unibit.io</dd>
 
-  <dt>Reddit</dt>
-  <dd>https://www.reddit.com/r/unibitproject/</dd>
-  
   <dt>Website #2</dt>
   <dd>https://unibitlabs.github.io</dd>
+  
+    <dt>Website #3</dt>
+  <dd>http://unibit.rundis.com</dd>
+
+  <dt>Website #4</dt>
+  <dd>https://</dd>
 </dl>
 
 
-
-
-<table>
-    <tr>
-        <td>Foo</td>
-       <td>Foo2</td>
-       <td>Foo3</td>
-    </tr>
-  <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-  </tr>
-</table>
-
-This is another regular paragraph.
 
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [3].
@@ -68,10 +55,6 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ***
 All are welcome to get involved & collaborate with us,
